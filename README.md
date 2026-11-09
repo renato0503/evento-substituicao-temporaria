@@ -13,7 +13,7 @@ Oficial. O app controla o prazo do dia 05 e mantém a planilha de controle.
 | Tipo | Aplicativo para servidor |
 | Stack | HTML único (CSS/JS inline), IndexedDB, GitHub Pages |
 | Fonte | `entregas/Evento de Substituição Temporária.docx` (09/11/2026) |
-| GitHub | a informar |
+| GitHub | [renato0503/evento-substituicao-temporaria](https://github.com/renato0503/evento-substituicao-temporaria) |
 
 ## Arquivos
 
@@ -50,7 +50,8 @@ Oficial. O app controla o prazo do dia 05 e mantém a planilha de controle.
 - Medir o volume mensal e o tempo de cada etapa no piloto de 30 dias.
 - O SIGADOC, a assinatura digital e a publicação no Diário Oficial ficam fora do
   MVP: o app registra o evento, a etapa, o prazo e a trilha.
-- O contato e o login do GitHub da Simone ainda precisam ser informados.
+- O repositório público está criado; o convite de push para a Simone ainda
+  depende do login do GitHub dela, e o contato precisa ser informado.
 
 ## Como construir e testar
 
